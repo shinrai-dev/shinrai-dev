@@ -6,6 +6,8 @@ To foster clarity and efficiency, we strongly encourage all new development effo
 
 By working together, we can create a streamlined and intuitive development environment for everyone.
 
+<b>ShinrAI Codebase Structure Guidelines</b>:
+
 - 👋 <i><b>dep</b></i>: A dep Folder that has the directory of your stored dependencies. 
 - 👀 <i><b>doc</b></i>: A doc Folder containing your documentation.
 - 🌱 <i><b>res</b></i>: A res Folder for all your project’s static resources, such as images. 
